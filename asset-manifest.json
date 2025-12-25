@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sal/static/css/main.bf6510a7.css",
+    "main.js": "/sal/static/js/main.d1bd2f49.js",
+    "static/js/453.6b2ee732.chunk.js": "/sal/static/js/453.6b2ee732.chunk.js",
+    "static/media/shawarmaPepper.png": "/sal/static/media/shawarmaPepper.8e8670950fd64b33f266.png",
+    "static/media/girlWithBubble.jpg": "/sal/static/media/girlWithBubble.9463d98b720e43bed945.jpg",
+    "index.html": "/sal/index.html",
+    "main.bf6510a7.css.map": "/sal/static/css/main.bf6510a7.css.map",
+    "main.d1bd2f49.js.map": "/sal/static/js/main.d1bd2f49.js.map",
+    "453.6b2ee732.chunk.js.map": "/sal/static/js/453.6b2ee732.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf6510a7.css",
+    "static/js/main.d1bd2f49.js"
+  ]
+}
